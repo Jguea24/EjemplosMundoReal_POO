@@ -40,8 +40,8 @@ class Biblioteca:
 if __name__ == "__main__":
     # Crear algunos libros
     libro1 = Libro("Python Crash Course", "Eric Matthes")
-    libro2 = Libro("Clean Code", "Robert C. Martin")
-    libro3 = Libro("The Pragmatic Programmer", "Andrew Hunt y David Thomas")
+    libro2 = Libro("Mysql conexion con python", "Robert C. Martin")
+    libro3 = Libro("Android Studio - Crea ti primer APP", "Andrew Hunt y David Thomas")
 
     # Crear una biblioteca y agregar libros
     biblioteca = Biblioteca()
